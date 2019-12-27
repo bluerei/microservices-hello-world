@@ -8,7 +8,7 @@ Since it is a  simple 'Hello World' application, it should produce a 'Hello *Wor
 
 #### Solution
 
-!['Hello World' microservices](D:\Projects\IntelliJ\microservices-hello-world\hello-world-microservices2.png)
+!['Hello World' microservices](hello-world-microservices2.png)
 
 
 
